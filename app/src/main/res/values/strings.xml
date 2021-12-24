@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perpustakaan</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="prodi">
+        <item>--Pilihan--</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Elektro</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknik Lingkungan</item>
+        <item>Teknik Industri</item>
+    </string-array>
+</resources>

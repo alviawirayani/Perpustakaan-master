@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A2D2FF</color>
+    <color name="colorPrimaryDark">#A2D2FF</color>
+    <color name="colorAccent">#A2D2FF</color>
+    <color name="tema">#A2D2FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="kotak">#D7E9F7</color>
+    <color name="merah">#04009A</color>
+    <color name="blue">#2978B5</color>
+    <color name="biru">#3C8DAD</color>
+</resources>
